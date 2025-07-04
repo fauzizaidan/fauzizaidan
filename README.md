@@ -31,7 +31,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World!++;Hi+there%F0%9F%91%8B%2C+I'm+Fauzi+Zaidan+Pratama;Let's+build+what+we+like+%F0%9F%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Hello+World!++;Hi+there%F0%9F%91%8B%2C+I'm+Fauzi+Zaidan+Pratama;Let's+build+what+we+like+%F0%9F%98%81)](https://git.io/typing-svg)
 
 ###
 
