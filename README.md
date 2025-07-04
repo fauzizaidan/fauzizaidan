@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">I'm Fauzi from Indonesia.<br>I have a strong interest in exploring and delving into the realm of software development 💻 and the limitless potential of artificial intelligence 🤖.<br><br>- 🎓 I’m currently a Student.<br>- 📚 I'm currently learning Software Development and Artificial Intelligence.<br>- ⚡ In my free time playing games or build simple projects.</p>
+<p align="left">I'm Fauzi from Indonesia.<br>I have a strong interest in exploring and delving into the realm of software development 💻 and the limitless potential of artificial intelligence 🤖.<br><br>- 🎓 I’m currently a **Student**.<br>- 📚 I'm currently learning **Software Development and Artificial Intelligence**.<br>- ⚡ In my free time i'm a playing games or build simple projects.</p>
 
 ###
 
