@@ -26,7 +26,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fauzizaidan.fauzizaidan&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fauzizaidan.fauzizaidan&left_text=Profile%20Views"  />
 </div>
 
 ###
