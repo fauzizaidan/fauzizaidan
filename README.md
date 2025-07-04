@@ -105,12 +105,6 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xom4qiqkndbilnnrofndm2c4mu)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xom4qiqkndbilnnrofndm2c4mu&count={count})
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xom4qiqkndbilnnrofndm2c4mu&width={width})
-
 ![unique](https://spotify-recently-played-readme.vercel.app/api?user=31xom4qiqkndbilnnrofndm2c4mu&unique={true|1|on|yes})
 
 ###
