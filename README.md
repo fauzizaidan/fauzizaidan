@@ -107,6 +107,8 @@
 
 ![unique](https://spotify-recently-played-readme.vercel.app/api?user=31xom4qiqkndbilnnrofndm2c4mu&unique={true|1|on|yes})
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xom4qiqkndbilnnrofndm2c4mu&width=500)
+
 ###
 
 <h2 align="left">✍️ My Contribution :</h2>
