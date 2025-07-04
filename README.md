@@ -31,14 +31,15 @@
 
 ###
 
-[![Hi There](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&center=true&vCenter=true&width=1000&height=115&lines=Hello+World!++;Hi+there%F0%9F%91%8B%2C+I'm+Fauzi+Zaidan+Pratama;Let's+build+what+we+like+%F0%9F%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&center=true&vCenter=true&width=1000&height=115&lines=Hello+World!++;Hi+there%F0%9F%91%8B%2C+I'm+Jioji;Let's+build+what+we+like+%F0%9F%98%81)](https://git.io/typing-svg)
+
 ###
 
 <h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<p align="left">I'm Fauzi Zaidan Pratama from Indonesia.<br>I have a strong interest in exploring and delving into the realm of software development 💻 and the limitless potential of artificial intelligence 🤖.<br><br>- 🎓 I’m currently a Student.<br>- 📚 I'm currently learning Software Development and Artificial Intelligence.<br>- ⚡ In my free time playing games or build simple projects.</p>
+<p align="left">I'm Fauzi from Indonesia.<br>I have a strong interest in exploring and delving into the realm of software development 💻 and the limitless potential of artificial intelligence 🤖.<br><br>- 🎓 I’m currently a Student.<br>- 📚 I'm currently learning Software Development and Artificial Intelligence.<br>- ⚡ In my free time playing games or build simple projects.</p>
 
 ###
 
