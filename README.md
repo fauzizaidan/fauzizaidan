@@ -35,7 +35,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -89,7 +89,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
@@ -101,19 +101,15 @@
 
 ###
 
-<h3 align="left">🎵 My Recently Played Song on Spotify</h3>
+<h2 align="left">🎵 My Recently Played Song on Spotify</h2>
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/JiojiOji">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=JiojiOji&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xom4qiqkndbilnnrofndm2c4mu)
 
 ###
 
-<h3 align="left">✍️ My Contribution :</h3>
+<h2 align="left">✍️ My Contribution :</h2>
 
 ###
 
@@ -130,3 +126,4 @@
 </picture>
 
 ###
+
