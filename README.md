@@ -105,7 +105,7 @@
 
 ###
 
-![unique](https://spotify-recently-played-readme.vercel.app/api?user=31xom4qiqkndbilnnrofndm2c4mu&width=300&unique=true)
+![unique](https://spotify-recently-played-readme.vercel.app/api?user=31xom4qiqkndbilnnrofndm2c4mu&width=500&unique=true)
 
 ###
 
